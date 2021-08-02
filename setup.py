@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-setup(name='sftpp', 
+setup(name='jupyternootebook', 
       # 프로젝트 명을 입력합니다.
       version='0.0.1', 
       # 프로젝트 버전을 입력합니다.
