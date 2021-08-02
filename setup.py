@@ -21,7 +21,7 @@ setup(name='jupyternootebook',
       # cython은 CPython 확장 모듈을 손쉽게 생성하도록 고안된 컴파일 언어
       zip_safe=False,
       classifiers=[
-          'License :: OSI Approved :: MIT License'
+          'License :: OSI Approved :: GNU License'
       ] 
       # 기본적으로 LICENSE 파일이 있다고 하더라도 명시적으로 적어 놓는 것이 좋습니다.
 )
